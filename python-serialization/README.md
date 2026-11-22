@@ -1,0 +1,1 @@
+- `task_00_basic_serialization.py`: serialize a dictionary to a JSON file and deserialize it back.
