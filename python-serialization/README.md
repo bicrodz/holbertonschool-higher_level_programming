@@ -1,3 +1,4 @@
 - `task_00_basic_serialization.py`: serialize a dictionary to a JSON file and deserialize it back.
 - `task_01_pickle.py`: custom class that serializes and deserializes itself with pickle.
 - `task_02_csv.py`: convert a CSV file to JSON (data.json) using csv.DictReader.
+- `task_03_xml.py`: serialize a dictionary to XML and deserialize it back with ElementTree.
